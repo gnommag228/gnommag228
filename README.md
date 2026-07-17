@@ -6,7 +6,7 @@ Ambitious student at VŠFS Prague focused on robust software architecture and OO
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 | Category | Tech Stack |
 | :--- | :--- |
@@ -17,26 +17,26 @@ Ambitious student at VŠFS Prague focused on robust software architecture and OO
 
 ---
 
-## 🎓 Education
+##  Education
 
-* 🏫 **University of Finance and Administration (VŠFS)** — Prague, CZ (Sept 2026 — June 2028)
+*  **University of Finance and Administration (VŠFS)** — Prague, CZ (Sept 2026 — June 2028)
   * *Bachelor's in Applied Informatics* (Focus: Software Development, Database Systems, OOP)
-* 🏫 **Czech University of Life Sciences Prague (CZU)** — Prague, CZ (Aug 2025 — May 2026)
+*  **Czech University of Life Sciences Prague (CZU)** — Prague, CZ (Aug 2025 — May 2026)
   * *Informatics (Undergraduate Studies)*
 
 ---
 
-## 📊 Quick Info
+##  Quick Info
 
-* 🎯 **Goal:** Seeking a Software Developer position (C# / Backend / Interactive Media)
-* 📍 **Location:** Prague, Czech Republic
+*  **Goal:** Seeking a Software Developer position (C# / Backend / Interactive Media)
+*  **Location:** Prague, Czech Republic
 
 ---
 
-## 📬 Connect with me:
-* 📱 **Telegram:** (https://t.me/vkisssss)
-* 📧 **Email:** [vvk200372@gmail.com](mailto:vvk200372@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/vladimir-kisarov-a21695373/)
+##  Connect with me:
+*  **Telegram:** (https://t.me/vkisssss)
+*  **Email:** [vvk200372@gmail.com](mailto:vvk200372@gmail.com)
+*  **LinkedIn:** https://www.linkedin.com/in/vladimir-kisarov-a21695373/)
 
 <img width="249" height="369" alt="67-angry-bird" src="https://github.com/user-attachments/assets/5df62a5e-4443-403a-9550-d5890d70dadf" />
 
