@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hello, I'm Vladimir! 👋
 
-<!--
-**gnommag228/gnommag228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Applied Informatics Student & C# Developer
 
-Here are some ideas to get you started:
+Ambitious student at VŠFS Prague focused on robust software architecture and OOP principles. I have practical experience in C# development through hands-on projects in Unity, alongside a strong understanding of application logic and clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | C#, SQL (MS SQL, PostgreSQL), HTML/CSS |
+| **Frameworks & Engines** | .NET 8 / .NET Core, ASP.NET Web API, Unity |
+| **Tools & Databases** | Git, GitHub, Postman |
+| **Concepts** | OOP, SOLID, Async/Await, Data Structures & Algorithms |
+
+---
+
+## 🎓 Education
+
+* 🏫 **University of Finance and Administration (VŠFS)** — Prague, CZ (Sept 2026 — June 2028)
+  * *Bachelor's in Applied Informatics* (Focus: Software Development, Database Systems, OOP)
+* 🏫 **Czech University of Life Sciences Prague (CZU)** — Prague, CZ (Aug 2025 — May 2026)
+  * *Informatics (Undergraduate Studies)*
+
+---
+
+## 📊 Quick Info
+
+* 🎯 **Goal:** Seeking a Software Developer position (C# / Backend / Interactive Media)
+* 📍 **Location:** Prague, Czech Republic
+
+---
+
+## 📬 Connect with me:
+
+* 📧 **Email:** [vvk200372@gmail.com](mailto:vvk200372@gmail.com)
+* 💼 **LinkedIn:** [Your LinkedIn Link Here](https://linkedin.com)
+
+<img width="249" height="369" alt="67-angry-bird" src="https://github.com/user-attachments/assets/5df62a5e-4443-403a-9550-d5890d70dadf" />
+
+
