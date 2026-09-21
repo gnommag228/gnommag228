@@ -1,42 +1,48 @@
-# Hello, I'm Vladimir! 👋
+# Hi there, I'm Vladimir
 
-### Applied Informatics Student & C# Developer
-
-Ambitious student at VŠFS Prague focused on robust software architecture and OOP principles. I have practical experience in C# development through hands-on projects in Unity, alongside a strong understanding of application logic and clean code.
+Applied Informatics student based in Prague, building backend systems with **C#** and **.NET**. Focused on web applications, clean architecture, and incorporating AI coding tools into software development workflows.
 
 ---
 
-##  Skills & Technologies
+###  Tech Stack
 
-| Category | Tech Stack |
-| :--- | :--- |
-| **Languages** | C#, SQL (MS SQL, PostgreSQL), HTML/CSS |
-| **Frameworks & Engines** | .NET 8 / .NET Core, ASP.NET Web API, Unity |
-| **Tools & Databases** | Git, GitHub, Postman |
-| **Concepts** | OOP, SOLID, Async/Await, Data Structures & Algorithms |
+* **Languages:** C#, SQL (T-SQL, PostgreSQL), HTML/CSS
+* **Frameworks & Libraries:** .NET 8/9, ASP.NET Core Web API, Entity Framework Core, Razor Pages, Unity
+* **Tools & Environment:** Git, GitHub, Docker, Postman
+* **Concepts:** OOP, SOLID, Async/Await, LINQ, RESTful APIs, Design Patterns
 
 ---
 
-##  Education
+###  Projects
 
-*  **University of Finance and Administration (VŠFS)** — Prague, CZ (Sept 2026 — June 2028)
-  * *Bachelor's in Applied Informatics* (Focus: Software Development, Database Systems, OOP)
-*  **Czech University of Life Sciences Prague (CZU)** — Prague, CZ (Aug 2025 — May 2026)
-  * *Informatics (Undergraduate Studies)*
+#### [Mediation Service Web Application](https://github.com/gnommag228/MediatorSite)
+Full-stack booking application built with C# and ASP.NET Core (Razor Pages, .NET 8).
+* **Database & ORM:** SQLite with Entity Framework Core migrations.
+* **Integrations:** Real-time notifications via Telegram Bot API for instant site admin alerts.
+* **Features:** Calendar-based slot reservation with double-booking prevention logic and a secured Admin Portal for request management.
+* **Deployment:** Hosted on Render with continuous deployment from GitHub.
+
+#### [Procedural Map Generator & Storage Engine](https://github.com/gnommag228/MapGenerator.Core)
+Engine-agnostic C# (.NET 9) library implementing the Strategy design pattern for procedural, seed-based 2D grid map generation.
+* **Persistence:** Uses Entity Framework Core to store generated map layouts and metadata in PostgreSQL.
+* **Architecture:** Decoupled design allowing integration into console tools, web APIs, or game engines like Unity.
+
+#### Isometric Roguelike Game *(In Development)*
+Isometric roguelike prototype developed in Unity (C#) focusing on procedural generation and grid-based pathfinding.
+* Implements OOP patterns (State, Singleton) for game logic and state transitions.
 
 ---
 
-##  Quick Info
-
-*  **Goal:** Seeking a Software Developer position (C# / Backend / Interactive Media)
-*  **Location:** Prague, Czech Republic
+###  Languages
+* **Czech:** B2
+* **English:** B1
+* **Russian:** Native
 
 ---
 
-##  Connect with me:
-*  **Telegram:** (https://t.me/vkisssss)
-*  **Email:** [vvk200372@gmail.com](mailto:vvk200372@gmail.com)
-*  **LinkedIn:** https://www.linkedin.com/in/vladimir-kisarov-a21695373/)
-
+###  Get in touch
+* **Email:** vvk200372@gmail.com
+* **LinkedIn:** [linkedin.com/in/vladimir-kisarov](https://linkedin.com)
+* **Location:** Prague, Czech Republic
 
 
