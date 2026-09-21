@@ -38,6 +38,5 @@ Ambitious student at VŠFS Prague focused on robust software architecture and OO
 *  **Email:** [vvk200372@gmail.com](mailto:vvk200372@gmail.com)
 *  **LinkedIn:** https://www.linkedin.com/in/vladimir-kisarov-a21695373/)
 
-<img width="249" height="369" alt="67-angry-bird" src="https://github.com/user-attachments/assets/5df62a5e-4443-403a-9550-d5890d70dadf" />
 
 
