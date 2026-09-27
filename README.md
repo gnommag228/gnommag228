@@ -1,4 +1,4 @@
-# Hi there, I'm Vladimir
+# Hi, I'm Vladimir
 
 Applied Informatics student based in Prague, building backend systems with **C#** and **.NET**. Focused on web applications, clean architecture, and incorporating AI coding tools into software development workflows.
 
