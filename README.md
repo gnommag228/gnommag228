@@ -35,7 +35,7 @@ Isometric roguelike prototype developed in Unity (C#) focusing on procedural gen
 
 ###  Languages
 * **Czech:** B2
-* **English:** B1
+* **English:** B2
 * **Russian:** Native
 
 ---
